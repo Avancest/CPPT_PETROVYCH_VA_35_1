@@ -1,0 +1,18 @@
+Created default weapon
+Weapon attempted to fire but was out of ammo.
+Reloaded weapon with 5 rounds.
+Weapon fired.
+Fetched weapon info: Weapon: Unknown, Ammo: None, Manufacturer: Unknown
+Closing log file.
+Created default weapon
+Weapon attempted to fire but was out of ammo.
+Reloaded weapon with 5 rounds.
+Weapon fired.
+Fetched weapon info: Weapon: Unknown, Ammo: None, Manufacturer: Unknown
+Closing log file.
+Created default weapon
+Weapon attempted to fire but was out of ammo.
+Reloaded weapon with 5 rounds.
+Weapon fired.
+Fetched weapon info: Weapon: Unknown, Ammo: None, Manufacturer: Unknown
+Closing log file.
