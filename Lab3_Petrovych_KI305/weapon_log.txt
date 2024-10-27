@@ -1,0 +1,35 @@
+Created weapon with specified parameters
+Assault rifle created
+Fetched weapon info: Weapon: Assault Rifle, Ammo: 5.56mm, Manufacturer: AR Manufacturer
+Assault rifle fired.
+Reloaded assault rifle with 30 rounds.
+Assault rifle fired.
+Closing log file.
+Created weapon with specified parameters
+Assault rifle created
+Fetched weapon info: Weapon: Assault Rifle, Ammo: 5.56mm, Manufacturer: AR Manufacturer
+Assault rifle fired.
+Reloaded assault rifle with 30 rounds.
+Assault rifle fired.
+Closing log file.
+Created weapon with specified parameters
+Assault rifle created
+Fetched weapon info: Weapon: Assault Rifle, Ammo: 5.56mm, Manufacturer: AR Manufacturer
+Assault rifle fired.
+Reloaded assault rifle with 30 rounds.
+Assault rifle fired.
+Closing log file.
+Created weapon with specified parameters
+Assault rifle created
+Fetched weapon info: Weapon: Assault Rifle, Ammo: 5.56mm, Manufacturer: AR Manufacturer
+Assault rifle fired.
+Reloaded assault rifle with 30 rounds.
+Assault rifle fired.
+Closing log file.
+Created weapon with specified parameters
+Assault rifle created
+Fetched weapon info: Weapon: Assault Rifle, Ammo: 5.56mm, Manufacturer: AR Manufacturer
+Assault rifle fired.
+Reloaded assault rifle with 30 rounds.
+Assault rifle fired.
+Closing log file.
